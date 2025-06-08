@@ -7,7 +7,7 @@ from weather import act_temperature
 from news import gen_news
 #from news_reuters import gen_news_en
 
-token = "6535106055:AAGa9iSfx-ZZ4S6fGM7j_9kBLtoOg2TMC5s"
+token = "0000"
 
 bot = telebot.TeleBot(token)
 
